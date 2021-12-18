@@ -1,4 +1,4 @@
-The program read2 2 excel files:
+The program reads 2 excel files:
 text.xlsx
 source.xlsx
 
